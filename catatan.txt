@@ -1,0 +1,4 @@
+Ini adalah isi dari file catatan.txt.
+File ini dibaca oleh Thread 3.
+Program ini merupakan contoh penerapan multithreading.
+Setiap thread memiliki tugas yang berbeda.
